@@ -9,6 +9,17 @@ Part 2 of the modern bootcamp course, switching from classroom style to applied 
 
 [MDN JS Web Docs - URL](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
+## Notes
+Big Issues
+Need to detect when a file changes.
+It would be nice to provide some help to users of our CLI tool.
+Figure out how to execute some JS code from within a JS program.
+
+## NPM packages
+chokidar (https://www.npmjs.com/package/chokidar)
+caporal (https://www.npmjs.com/package/caporal)
+lodash.debounce (https://www.npmjs.com/package/lodash.debounce)
+
 <!-- LICENSE -->
 ## License
 

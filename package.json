@@ -1,0 +1,29 @@
+{
+  "name": "watchit",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">WatchIt App</h1>",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShotRep/watchit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "watchit": "script.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ShotRep/watchit/issues"
+  },
+  "homepage": "https://github.com/ShotRep/watchit#readme",
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "chalk": "^4.1.2",
+    "chokidar": "^3.5.2",
+    "lodash.debounce": "^4.0.8"
+  }
+}
